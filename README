@@ -1,0 +1,16 @@
+# JavaScript - Estudos e Prática
+
+Repositório dedicado ao aprendizado de JavaScript, com foco em fundamentos, lógica de programação e manipulação do DOM.
+
+## Objetivos
+- Dominar sintaxe e estruturas básicas
+- Praticar lógica de programação
+- Criar interações dinâmicas
+
+## Conteúdo
+- `/fundamentos` - Variáveis, operadores, condicionais
+- `/funcoes` - Declaração, arrow functions, callbacks
+- `/dom` - Manipulação de elementos, eventos
+
+## Evolução
+Este é um repositório vivo - cada commit representa um passo no meu aprendizado.
